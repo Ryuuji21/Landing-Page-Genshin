@@ -1,0 +1,1 @@
+Landing Page de um dos meus jogos favoritos no momento, Genshin Impact, com links de direcionamento e varios botões, trabalhando muito o HTML e CSS, porém sem JS.
